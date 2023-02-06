@@ -1,0 +1,39 @@
+
+.videoSizeDefault{
+    max-width: 500px;
+    height: 200px;
+    border-radius: 5px;
+}
+.videoSizeDefault:hover{
+    max-width: 510px;
+    height: 210px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.color{
+ font-size: 30px;
+ color: white;
+ 
+}
+.showIcon{
+    position: absolute;
+    left: 40px;
+    bottom: 91px;
+}
+.hideIcon{
+    display:none;
+}
+.position{
+    position: relative;
+    top:350px;
+    left:20px
+}
+.size{
+    width:500px;
+    height: 600px;
+    border-radius: 5px;
+}
+.para{
+    color:white;
+    z-index:1;
+}
