@@ -8,4 +8,4 @@ const myFunction=()=>{
   vid.muted=false;
 
 }
-vid.addEventListener("click",myFunction,myFunction1);
+vid.addEventListener("click",myFunction);
